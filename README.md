@@ -2,7 +2,7 @@
 ![Фото](img/photo.JPG)
 ## C нуля до Веб-разработчика
 
-В 2025 году принял решение обучиться веб-разработке. Т.к. нет профильного образования и как-либо навыков в IT, выбрал курс в [Нетология](https://netology.ru/) -  [Веб-разработчик с нуля профессия с выбором специализации](https://netology.ru/programs/veb-razrabotchik-s-nulya-professiya-s-vyborom-specializacii)
+В 2025 году принял решение обучиться веб-разработке. Т.к. нет профильного образования и каких-либо навыков в IT, выбрал курс в [Нетология](https://netology.ru/) -  [Веб-разработчик с нуля профессия с выбором специализации](https://netology.ru/programs/veb-razrabotchik-s-nulya-professiya-s-vyborom-specializacii)
 
 ## Что было изучено
 
